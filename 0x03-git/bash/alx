@@ -2,5 +2,5 @@
 <<<<<<< HEAD
 echo "ALX School is so cool!"
 =======
-echo "ALX School"
+CONFLICT (content): Merge conflict in bash/alx
 >>>>>>> update_script
